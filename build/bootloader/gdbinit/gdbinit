@@ -1,0 +1,2 @@
+source /home/robt/delivery-box-final/build/bootloader/gdbinit/symbols
+source /home/robt/delivery-box-final/build/bootloader/gdbinit/connect

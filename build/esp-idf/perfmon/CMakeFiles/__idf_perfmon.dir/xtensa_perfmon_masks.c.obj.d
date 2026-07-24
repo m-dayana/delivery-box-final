@@ -1,0 +1,24 @@
+esp-idf/perfmon/CMakeFiles/__idf_perfmon.dir/xtensa_perfmon_masks.c.obj: \
+ /home/robt/.espressif/v5.2.7/esp-idf/components/perfmon/xtensa_perfmon_masks.c \
+ /home/robt/.espressif/v5.2.7/esp-idf/components/perfmon/include/xtensa_perfmon_masks.h \
+ /home/robt/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20250707/xtensa-esp-elf/xtensa-esp-elf/include/inttypes.h \
+ /home/robt/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20250707/xtensa-esp-elf/xtensa-esp-elf/include/newlib.h \
+ /home/robt/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20250707/xtensa-esp-elf/xtensa-esp-elf/include/_newlib_version.h \
+ /home/robt/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20250707/xtensa-esp-elf/xtensa-esp-elf/include/sys/config.h \
+ /home/robt/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20250707/xtensa-esp-elf/xtensa-esp-elf/include/machine/ieeefp.h \
+ /home/robt/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20250707/xtensa-esp-elf/xtensa-esp-elf/include/sys/features.h \
+ /home/robt/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20250707/xtensa-esp-elf/xtensa-esp-elf/include/sys/_intsup.h \
+ /home/robt/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20250707/xtensa-esp-elf/xtensa-esp-elf/include/_ansi.h \
+ /home/robt/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20250707/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/13.2.0/include/stdint.h \
+ /home/robt/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20250707/xtensa-esp-elf/xtensa-esp-elf/include/stdint.h \
+ /home/robt/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20250707/xtensa-esp-elf/xtensa-esp-elf/include/machine/_default_types.h \
+ /home/robt/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20250707/xtensa-esp-elf/xtensa-esp-elf/include/sys/_stdint.h \
+ /home/robt/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20250707/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/13.2.0/include/stddef.h \
+ /home/robt/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20250707/xtensa-esp-elf/xtensa-esp-elf/include/sys/_locale.h \
+ /home/robt/.espressif/v5.2.7/esp-idf/components/xtensa/include/xtensa/xt_perf_consts.h \
+ /home/robt/.espressif/v5.2.7/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
+ /home/robt/.espressif/v5.2.7/esp-idf/components/xtensa/include/xtensa/hal.h \
+ /home/robt/.espressif/v5.2.7/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h \
+ /home/robt/.espressif/v5.2.7/esp-idf/components/xtensa/esp32/include/xtensa/config/core-isa.h \
+ /home/robt/.espressif/v5.2.7/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h \
+ /home/robt/.espressif/v5.2.7/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h
